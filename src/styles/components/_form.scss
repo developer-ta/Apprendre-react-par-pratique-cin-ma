@@ -59,12 +59,14 @@
       }
     }
     #goodToBad span {
-      transform: translateY(-50%) rotate(-90deg);
-      right: 18px;
+      transform: translateY(-50%) rotate(0deg);
+      right: 20px;
+      font-size: large;
     }
     #badToGood span {
-      transform: translateY(-50%) rotate(90deg);
-      left: 16px;
+      transform: translateY(-50%) rotate(0deg);
+      left: 20px;
+      font-size: large;
     }
     #goodToBad span,
     #badToGood span {

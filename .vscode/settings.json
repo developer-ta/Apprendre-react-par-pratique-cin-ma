@@ -1,3 +1,6 @@
 {
-    "editor.wordWrap": "off"
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 120,
+    "workbench.editor.wrapTabs": true,
+    "debug.console.wordWrap": true
 }
